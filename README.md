@@ -37,13 +37,6 @@ python cholesky implementation
 
 ```
 
-Add these keywords to:
-
-- README
-- Repository description
-- GitHub Topics
-- Project metadata
-
 ---
 
 ## 📚 Mathematical Definition
