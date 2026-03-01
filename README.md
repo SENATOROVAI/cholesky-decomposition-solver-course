@@ -7,6 +7,8 @@
 [![Website](https://img.shields.io/badge/website-live-blue.svg)](https://senatorovai.github.io/cholesky-decomposition-solver-course/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18818738.svg)](https://doi.org/10.5281/zenodo.18820667)
+[![Code Style](https://img.shields.io/badge/code%20style-black-black)]()
+[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)]()
 
 > 🚀 Professional course project for understanding and implementing **Cholesky Decomposition** from scratch in Python.
 
