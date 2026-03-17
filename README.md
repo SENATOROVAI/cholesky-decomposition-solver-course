@@ -1,4 +1,4 @@
-# stepik: https://stepik.org/a/249447
+#### https://SenatorovAI.com
 
 # Cholesky Decomposition Solver — Course & Implementation
 
